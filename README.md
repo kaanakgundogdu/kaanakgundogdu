@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey. Currently i'm trying to learn machine learning and blockchain techs.
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey. I'm trying to learn every popular programing languages.
 
 - 🎮 I was work in mobile game indistury for one and a half year.
 
