@@ -2,7 +2,8 @@
 
 <div id="stats" align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
