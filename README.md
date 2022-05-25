@@ -19,9 +19,16 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
 
 <div id="stats" align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats) 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
+   -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaanakgundogdu&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaanakgundogdu&theme=default)
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanakgundogdu&theme=vue) -->
+  
 </div>
 
 
