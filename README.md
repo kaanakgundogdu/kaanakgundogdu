@@ -18,13 +18,22 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
 
 </div>
 
+
+
 ### :fire: My Stats :
 
 <div id="stats" align="center">
+
   
   [![Kaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats)
-  ![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)
+  ![cp](https://user-images.githubusercontent.com/62032779/180623194-3f412a8f-a46e-4b5f-9b08-84c2f0be32e2.gif)
+    
   <br>
+  
+  ![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)
+  
+  <br>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaanakgundogdu&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaanakgundogdu&theme=default)
 
