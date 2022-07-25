@@ -33,6 +33,9 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
   
   ![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)
   
+   ![1658786651527](https://user-images.githubusercontent.com/62032779/180881754-a722e2e6-596a-492d-b764-3ca41aedf544.jpg)
+  
+  
   <br>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaanakgundogdu&theme=default)
@@ -42,7 +45,7 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
   <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) -->
   <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
    -->
-   
+
 </div>
 
 
