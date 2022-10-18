@@ -28,11 +28,9 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
 <div id="stats" align="center">
 
   
-  [![Kaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats)
-  ![cp](https://user-images.githubusercontent.com/62032779/180623194-3f412a8f-a46e-4b5f-9b08-84c2f0be32e2.gif)
-    
-  <br>
-  
+  <!-- [![Kaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats) -->
+ 
+  <!--![cp](https://user-images.githubusercontent.com/62032779/180623194-3f412a8f-a46e-4b5f-9b08-84c2f0be32e2.gif)-->
   ![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)
   
    ![1658786651527](https://user-images.githubusercontent.com/62032779/180881754-a722e2e6-596a-492d-b764-3ca41aedf544.jpg)
@@ -45,8 +43,8 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
 
   <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanakgundogdu&theme=vue) -->
   <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) -->
-  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
-   -->
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
