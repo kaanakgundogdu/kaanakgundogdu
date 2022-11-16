@@ -1,6 +1,8 @@
 
 ### :man_technologist: About Me :
-I am a developer from Turkey. I'm trying to learn every popular programing languages. I worked in mobile game industury for one and a half year. Interested in javascript, go, rust and python. In my free time, i play video games and read manga.
+I am a developer from Turkey. I'm trying to learn every popular programing languages. I worked in mobile game industury for one and a half year. Interested in javascript, go, rust and python. In my free time, i play video games and read manga. 
+
+### [*Check out my blog.*](https://kaanakgundogdu.deno.dev/)
 
 :mailbox:My linkedin profile: [![Linkedin Badge](https://img.shields.io/badge/-KaanAkgundogdu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaanakgundogdu/)
 
