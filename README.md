@@ -4,7 +4,7 @@ I am a developer from Turkey. I'm trying to learn every popular programing langu
 
 ### [*Check out my Portfolio.*](https://kaanakgundogdu.github.io/)
 
-### [*Check out my blog.*](https://kaanakgundogdu.deno.dev/)
+<!-- ### [*Check out my blog.*](https://kaanakgundogdu.deno.dev/) -->
 
 :mailbox:My linkedin profile: [![Linkedin Badge](https://img.shields.io/badge/-KaanAkgundogdu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaanakgundogdu/)
 
