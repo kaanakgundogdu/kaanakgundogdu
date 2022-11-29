@@ -1,6 +1,6 @@
 
 ### :man_technologist: About Me :
-I am a developer from Turkey. I'm trying to learn every popular programing languages. I worked in mobile game industury for one and a half year. Interested in javascript, go, rust and python. In my free time, i play video games and read manga. 
+Hi my name is Kaan Akgündoğdu, I am a developer from Turkey. I'm trying to learn every popular programing languages. I worked in mobile game industury for one and a half years. Interested in javascript, go, rust and python. In my free time, i play video games and read manga. 
 
 ### [*Check out my Portfolio.*](https://kaanakgundogdu.github.io/)
 
