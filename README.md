@@ -35,7 +35,7 @@ Hi my name is Kaan Akgündoğdu, I am a developer from Turkey. I'm trying to lea
   <!-- [![Kaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanakgundogdu&theme=dark&background=000000)](https://git.io/streak-stats) -->
  
   <!--![cp](https://user-images.githubusercontent.com/62032779/180623194-3f412a8f-a46e-4b5f-9b08-84c2f0be32e2.gif)-->
-  ![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)
+  <!--[Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&show_icons=true&theme=radical)-->
   
    ![1658786651527](https://user-images.githubusercontent.com/62032779/180881754-a722e2e6-596a-492d-b764-3ca41aedf544.jpg)
   
