@@ -21,7 +21,7 @@ Hi my name is Kaan Akgündoğdu, I'm a Software Developer. After graduating from
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg"  title="rust" alt="rust" width="40" height="40"/>&nbsp;
-  <img src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj"  title="Uniy" alt="Uniy" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj"  title="Uniy" alt="Uniy" width="40" height="40"/>&nbsp; -->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp; -->
 </div>
@@ -48,7 +48,7 @@ Hi my name is Kaan Akgündoğdu, I'm a Software Developer. After graduating from
 
   <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanakgundogdu&theme=vue) -->
   <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kaanakgundogdu&theme=highcontrast&show_icons=true&count_private=true) -->
- [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy)
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kaanakgundogdu)](https://github.com/ryo-ma/github-profile-trophy) --> 
 
 
 </div>
